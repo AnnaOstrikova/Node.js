@@ -1,0 +1,26 @@
+{
+  "name": "2-node",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+git@github.com:AnnaOstrikova/Node.js.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/AnnaOstrikova/Node.js/issues"
+  },
+  "homepage": "https://github.com/AnnaOstrikova/Node.js#readme",
+  "devDependencies": {
+    "@eslint/js": "^9.6.0",
+    "cypress": "^13.8.1",
+    "eslint": "^8.57.0",
+    "eslint-plugin-react": "^7.34.3",
+    "globals": "^15.8.0"
+  }
+}
